@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="peminjaman" msprop:Generator_TableClassName="peminjamanDataTable" msprop:Generator_TableVarName="tablepeminjaman" msprop:Generator_TablePropName="peminjaman" msprop:Generator_RowDeletingName="peminjamanRowDeleting" msprop:Generator_RowChangingName="peminjamanRowChanging" msprop:Generator_RowEvHandlerName="peminjamanRowChangeEventHandler" msprop:Generator_RowDeletedName="peminjamanRowDeleted" msprop:Generator_UserTableName="peminjaman" msprop:Generator_RowChangedName="peminjamanRowChanged" msprop:Generator_RowEvArgName="peminjamanRowChangeEvent" msprop:Generator_RowClassName="peminjamanRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="no_transaksi" msprop:Generator_ColumnVarNameInTable="columnno_transaksi" msprop:Generator_ColumnPropNameInRow="no_transaksi" msprop:Generator_ColumnPropNameInTable="no_transaksiColumn" msprop:Generator_UserColumnName="no_transaksi" type="xs:string" minOccurs="0" />
+              <xs:element name="no_polisi" msprop:Generator_ColumnVarNameInTable="columnno_polisi" msprop:Generator_ColumnPropNameInRow="no_polisi" msprop:Generator_ColumnPropNameInTable="no_polisiColumn" msprop:Generator_UserColumnName="no_polisi" type="xs:string" minOccurs="0" />
+              <xs:element name="nama_mobil" msprop:Generator_ColumnVarNameInTable="columnnama_mobil" msprop:Generator_ColumnPropNameInRow="nama_mobil" msprop:Generator_ColumnPropNameInTable="nama_mobilColumn" msprop:Generator_UserColumnName="nama_mobil" type="xs:string" minOccurs="0" />
+              <xs:element name="nama_peminjam" msprop:Generator_ColumnVarNameInTable="columnnama_peminjam" msprop:Generator_ColumnPropNameInRow="nama_peminjam" msprop:Generator_ColumnPropNameInTable="nama_peminjamColumn" msprop:Generator_UserColumnName="nama_peminjam" type="xs:string" minOccurs="0" />
+              <xs:element name="tgl_pinjam" msprop:Generator_ColumnVarNameInTable="columntgl_pinjam" msprop:Generator_ColumnPropNameInRow="tgl_pinjam" msprop:Generator_ColumnPropNameInTable="tgl_pinjamColumn" msprop:Generator_UserColumnName="tgl_pinjam" type="xs:string" minOccurs="0" />
+              <xs:element name="tgl_kembali" msprop:Generator_ColumnVarNameInTable="columntgl_kembali" msprop:Generator_ColumnPropNameInRow="tgl_kembali" msprop:Generator_ColumnPropNameInTable="tgl_kembaliColumn" msprop:Generator_UserColumnName="tgl_kembali" type="xs:string" minOccurs="0" />
+              <xs:element name="total_bayar" msprop:Generator_ColumnVarNameInTable="columntotal_bayar" msprop:Generator_ColumnPropNameInRow="total_bayar" msprop:Generator_ColumnPropNameInTable="total_bayarColumn" msprop:Generator_UserColumnName="total_bayar" type="xs:string" minOccurs="0" />
+              <xs:element name="lama_pinjam" msprop:Generator_ColumnVarNameInTable="columnlama_pinjam" msprop:Generator_ColumnPropNameInRow="lama_pinjam" msprop:Generator_ColumnPropNameInTable="lama_pinjamColumn" msprop:Generator_UserColumnName="lama_pinjam" type="xs:string" minOccurs="0" />
+              <xs:element name="status" msprop:Generator_ColumnVarNameInTable="columnstatus" msprop:Generator_ColumnPropNameInRow="status" msprop:Generator_ColumnPropNameInTable="statusColumn" msprop:Generator_UserColumnName="status" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
