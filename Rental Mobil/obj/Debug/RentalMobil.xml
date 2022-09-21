@@ -1,0 +1,391 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RentalMobil
+</name>
+</assembly>
+<members>
+<member name="T:RentalMobil.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources._53e78f8b_0080_4ad1_9d47_ce9985f7d0ec">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.add_user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_account_circle_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_add_shopping_cart_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_dns_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_home_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_leaderboard_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_lock_white_48dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_sentiment_satisfied_alt_white_48dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.baseline_swap_horiz_white_24dp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.car_log">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.chevron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_account_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_add_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_add_32px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_car_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_database_restore_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_delete_bin_24px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_delete_bin_24px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_delete_bin_28px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_delete_bin_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_delete_bin_90px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_edit_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_edit_file_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_edit_file_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_envelope_104px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_eye_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_hide_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_home_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_home_page_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_lease_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_lease_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_lease_100px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_lock_60px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_logout_rounded_left_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_male_user_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_male_user_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_male_user_100px_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_member_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_microsoft_admin_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_name_104px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_news_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_pay_date_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_pay_date_100px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_payment_history_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_payment_history_100px_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_payment_history_100px_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_print_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_refresh_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_rotate_right_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_schedule_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_shutdown_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_sync_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_system_administrator_male_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_tesla_model_3_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_tesla_model_x_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_trash_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.icons8_user_100px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.menu__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.minus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.mobilputih">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.output_onlinepngtools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.output_onlinepngtools_waifu2x_photo_noise3_scale_tta_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.trash_can">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RentalMobil.My.Resources.Resources.user__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:RentalMobil.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:RentalMobil.DataSet1.peminjamanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:RentalMobil.DataSet1.peminjamanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:RentalMobil.DataSet1.peminjamanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>
